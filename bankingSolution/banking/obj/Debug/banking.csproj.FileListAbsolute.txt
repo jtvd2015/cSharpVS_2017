@@ -1,0 +1,7 @@
+C:\repos\cSharpVS_2017\bankingSolution\banking\obj\Debug\banking.csprojResolveAssemblyReference.cache
+C:\repos\cSharpVS_2017\bankingSolution\banking\obj\Debug\banking.csproj.CoreCompileInputs.cache
+C:\repos\cSharpVS_2017\bankingSolution\banking\bin\Debug\banking.exe.config
+C:\repos\cSharpVS_2017\bankingSolution\banking\bin\Debug\banking.exe
+C:\repos\cSharpVS_2017\bankingSolution\banking\bin\Debug\banking.pdb
+C:\repos\cSharpVS_2017\bankingSolution\banking\obj\Debug\banking.exe
+C:\repos\cSharpVS_2017\bankingSolution\banking\obj\Debug\banking.pdb
