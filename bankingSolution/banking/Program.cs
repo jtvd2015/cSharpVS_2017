@@ -82,6 +82,10 @@ namespace banking
 
             svb.Deposit(1000.00);
 
+            Investment inv1 = new Investment();
+            inv1.Deposit(500.00);
+            Console.WriteLine(inv1.ToPrint());
+
             Account[] accounts = { cka, ckb, sva, svb };  //Account type was used because it was the common denominator between Checking and Savings Accounts
 
             double grandTotal = 0;  
@@ -92,6 +96,8 @@ namespace banking
                 Console.WriteLine(acct.ToPrint());
             }
             Console.WriteLine("Grand Total is " + grandTotal.ToString());  //current output shows the Grand Total, but does not show whether they are Checking Accounts or Savings Accounts, but since adding virtual and override to Account, Checking, and Saving Classes, it prints correctly
+
+
 
             Console.ReadKey(); //touch any key and the window will disappear
         }
