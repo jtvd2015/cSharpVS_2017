@@ -1,0 +1,6 @@
+C:\repos\cSharpVS_2017\AnimalSoundsSolution\AnimalSounds\obj\Debug\AnimalSounds.csproj.CoreCompileInputs.cache
+C:\repos\cSharpVS_2017\AnimalSoundsSolution\AnimalSounds\bin\Debug\AnimalSounds.exe.config
+C:\repos\cSharpVS_2017\AnimalSoundsSolution\AnimalSounds\bin\Debug\AnimalSounds.exe
+C:\repos\cSharpVS_2017\AnimalSoundsSolution\AnimalSounds\bin\Debug\AnimalSounds.pdb
+C:\repos\cSharpVS_2017\AnimalSoundsSolution\AnimalSounds\obj\Debug\AnimalSounds.exe
+C:\repos\cSharpVS_2017\AnimalSoundsSolution\AnimalSounds\obj\Debug\AnimalSounds.pdb
