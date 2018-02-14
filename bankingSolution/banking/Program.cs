@@ -84,18 +84,17 @@ namespace banking
 
             Investment inv1 = new Investment();
             inv1.Deposit(500.00);
-            Console.WriteLine(inv1.ToPrint());
-
-            Account[] accounts = { cka, ckb, sva, svb };  //Account type was used because it was the common denominator between Checking and Savings Accounts
+            
+            IAccountStatement[] accounts = { cka, ckb, sva, svb, inv1 };  //IAccountStatement Interface was used because it has a GetBalance Method and ToPrint Method
 
             double grandTotal = 0;  
-            foreach (Account acct in accounts)  //first Account is a Class type, second acct is a variable, third account is the collection
+            foreach (IAccountStatement acct in accounts)  
             {
                 double acctBalance = acct.GetBalance();  //acctBalance variable is grabbing the Balance of each account
                 grandTotal = grandTotal + acctBalance;  //then the Balance is going to be added and show the grandTotal variable
                 Console.WriteLine(acct.ToPrint());
             }
-            Console.WriteLine("Grand Total is " + grandTotal.ToString());  //current output shows the Grand Total, but does not show whether they are Checking Accounts or Savings Accounts, but since adding virtual and override to Account, Checking, and Saving Classes, it prints correctly
+            Console.WriteLine("Grand Total is " + grandTotal.ToString());  //old output showed the Grand Total, but did not show whether they were Checking Accounts or Savings Accounts, but since adding virtual to Account and override to Checking and Saving Classes, it prints correctly
 
 
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace banking
 {
-    public class Investment //does not inherit from Account since it is a new Account Type
+    public class Investment : IAccountStatement //does not inherit from Account since it is a new Account Type, but will Implement IAccountStatement
     {
         public Account account { get; set; }
         

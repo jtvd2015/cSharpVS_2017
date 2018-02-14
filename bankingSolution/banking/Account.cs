@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace banking
 {
-    public class Account
+    public class Account : IAccountStatement  //Account had to Interface with IAccountStatement because Account, Checking, and Savings, had a GetBalance Method and ToPrint Method.  If the IAccountStatement was not added, when we tried to run the program, cka, ckb, sva, svb would error in the output when the program ran because the application was looking for a cast when it was not needed because we were performing an Interface
     {
         //Properties
         public int Id { get; set; }
