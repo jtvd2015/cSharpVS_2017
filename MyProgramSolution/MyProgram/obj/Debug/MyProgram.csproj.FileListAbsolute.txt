@@ -1,0 +1,6 @@
+C:\repos\cSharpVS_2017\MyProgramSolution\MyProgram\bin\Debug\MyProgram.exe.config
+C:\repos\cSharpVS_2017\MyProgramSolution\MyProgram\bin\Debug\MyProgram.exe
+C:\repos\cSharpVS_2017\MyProgramSolution\MyProgram\bin\Debug\MyProgram.pdb
+C:\repos\cSharpVS_2017\MyProgramSolution\MyProgram\obj\Debug\MyProgram.csproj.CoreCompileInputs.cache
+C:\repos\cSharpVS_2017\MyProgramSolution\MyProgram\obj\Debug\MyProgram.exe
+C:\repos\cSharpVS_2017\MyProgramSolution\MyProgram\obj\Debug\MyProgram.pdb

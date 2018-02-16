@@ -1,0 +1,6 @@
+C:\repos\cSharpVS_2017\DisplaySeasonLibrary\DisplaySeasonLibrary\bin\Debug\DisplaySeasonLibrary.dll
+C:\repos\cSharpVS_2017\DisplaySeasonLibrary\DisplaySeasonLibrary\bin\Debug\DisplaySeasonLibrary.pdb
+C:\repos\cSharpVS_2017\DisplaySeasonLibrary\DisplaySeasonLibrary\obj\Debug\DisplaySeasonLibrary.csprojResolveAssemblyReference.cache
+C:\repos\cSharpVS_2017\DisplaySeasonLibrary\DisplaySeasonLibrary\obj\Debug\DisplaySeasonLibrary.csproj.CoreCompileInputs.cache
+C:\repos\cSharpVS_2017\DisplaySeasonLibrary\DisplaySeasonLibrary\obj\Debug\DisplaySeasonLibrary.dll
+C:\repos\cSharpVS_2017\DisplaySeasonLibrary\DisplaySeasonLibrary\obj\Debug\DisplaySeasonLibrary.pdb

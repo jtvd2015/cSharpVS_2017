@@ -1,0 +1,6 @@
+C:\repos\cSharpVS_2017\SqlReadCustomerSolution\SqlReadCustomer\obj\Debug\SqlReadCustomer.csprojResolveAssemblyReference.cache
+C:\repos\cSharpVS_2017\SqlReadCustomerSolution\SqlReadCustomer\obj\Debug\SqlReadCustomer.csproj.CoreCompileInputs.cache
+C:\repos\cSharpVS_2017\SqlReadCustomerSolution\SqlReadCustomer\bin\Debug\SqlReadCustomer.dll
+C:\repos\cSharpVS_2017\SqlReadCustomerSolution\SqlReadCustomer\bin\Debug\SqlReadCustomer.pdb
+C:\repos\cSharpVS_2017\SqlReadCustomerSolution\SqlReadCustomer\obj\Debug\SqlReadCustomer.dll
+C:\repos\cSharpVS_2017\SqlReadCustomerSolution\SqlReadCustomer\obj\Debug\SqlReadCustomer.pdb
